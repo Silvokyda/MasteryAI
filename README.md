@@ -2,7 +2,7 @@
 
 > The AI tutor that actually teaches.
 
-🔗 **Live Demo:** [masteryai.vercel.app](https://masteryai.vercel.app)
+🔗 **Live Demo:** [masteryai.vercel.app](https://adaptive-ai-tutor.vercel.app/)
 
 ---
 
